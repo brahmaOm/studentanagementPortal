@@ -1,1 +1,1 @@
-# studentanagementPortal
+# studentmanagementPortal
